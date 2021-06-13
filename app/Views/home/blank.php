@@ -19,7 +19,7 @@
 
   <!-- Preloader -->
   <div class="preloader flex-column justify-content-center align-items-center">
-    <img class="animation__wobble" src="<?= base_url() ?>/assets/static/dist/img/AdminLTELogo.png" alt="AdminLTELogo" height="60" width="60">
+    <img class="animation__wobble" src="<?= base_url() ?>/assets/static/dist/img/ext/company.png" alt="Company Logo" height="60" width="60">
   </div>
 
   <!-- Navbar -->
@@ -164,7 +164,7 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="<?= site_url() ?>" class="brand-link">
-      <img src="<?= base_url() ?>/assets/static/dist/img/ext/company.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <img src="<?= base_url() ?>/assets/static/dist/img/ext/company.png" alt="Company Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
       <span class="brand-text font-weight-light">Company</span>
     </a>
 
